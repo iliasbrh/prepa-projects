@@ -9,4 +9,4 @@ Les figures peuvent être obtenues de deux manières :
 
 La décomposition en séries de Fourier permet ici de représenter les figures avec des vecteurs en rotation uniforme mis bout à bout.  
 
-<video src="demo.mp4" width="40%" controls muted autoplay loop></video>  
+[!Video demo](./demo.gif)
